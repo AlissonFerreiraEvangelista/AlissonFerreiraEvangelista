@@ -21,9 +21,9 @@
 </div>
 
 
-### Teste
+<!-- BLOG-POST-LIST:START -->
 - 🔭 I’m currently working on
-<!--
+<!-- BLOG-POST-LIST:END -->
 
 
 Here are some ideas to get you started:

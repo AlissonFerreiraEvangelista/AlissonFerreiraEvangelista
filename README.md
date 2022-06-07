@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Alisson Ferreira 👋
  :nerd_face: :girl: :books:
-• Estudante
-• Pai da Alice
+ <br>
+• Cursando Análise e Desenvolvimento de sistemas <br>
+• Pai da Alice <br>
 
 <div>
   <h2>Tecnologias</h2>

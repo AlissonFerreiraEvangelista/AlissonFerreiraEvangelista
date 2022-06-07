@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Alisson Ferreira 👋
-### Estudante, Pai da Alice, Enxadrista Leitura nas horas vagas :nerd_face: :girl: :books:
+ :nerd_face: :girl: :books:
+• Estudante
+• Pai da Alice
 
 <div>
   <h2>Tecnologias</h2>

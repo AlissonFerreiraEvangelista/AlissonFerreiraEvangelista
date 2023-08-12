@@ -1,14 +1,11 @@
-## Olá! Eu sou o Alisson Ferreira 👋
+# Olá! Eu sou o Alisson Ferreira 👋
  :nerd_face: :girl: :books:
  <br>
 • Cursando Análise e Desenvolvimento de sistemas <br>
 • Pai da Alice <br>
 
-<div>
-  <h2>Tecnologias</h2>
-</div>
 
-<p>Tecnologias e ferramentas:</p>
+# Tecnologias
 
 <p align="left">
   <a href="https://skillicons.dev">
